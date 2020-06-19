@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CoronaVirusTracker</string>
+    <string name="sample_text">Between your doctor and health care authorities, you’ll get the care .</string>
+
+    <string name="country">Select Country</string>
+</resources>

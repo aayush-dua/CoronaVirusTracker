@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E0F7FA</color>
+    <color name="colorPrimaryDark">#FAFAFA</color>
+    <color name="colorAccent">#E0F7FA</color>
+
+    <color name="colorTitle">#546E7A</color>
+    <color name="colorDescription">#90A4AE</color>
+    <color name="White">#ffffff</color>
+    <color name="colorGradientButtonStart">#42A5F5</color>
+    <color name="colorGradientButtonEnd">#1E88E5</color>
+    <color name="totCases">#FF7043</color>
+    <color name="actCases">#64B5F6</color>
+    <color name="recCases">#4CAF50</color>
+    <color name="decCases">#e53935</color>
+
+</resources>

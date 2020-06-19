@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/updates"
+          android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+        android:title="Cases"
+        android:enabled="true"
+        ></item>
+    <item android:id="@+id/india"
+        android:icon="@drawable/ic_face"
+        android:title="India"
+        android:enabled="true"/>
+    <item android:id="@+id/symptoms"
+        android:icon="@drawable/ic_warning_black_24dp"
+        android:title="Symptoms"
+        android:enabled="true"></item>
+    <item android:id="@+id/safety"
+        android:icon="@drawable/ic_local_hospital_black_24dp"
+        android:title="Safety Tips"
+        android:enabled="true"></item>
+</menu>
